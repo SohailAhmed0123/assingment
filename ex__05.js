@@ -1,0 +1,3 @@
+var noma = "\t\n Sohail \t\n";
+console.log(noma);
+console.log(noma.trim());
